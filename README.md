@@ -6,4 +6,6 @@
 
 ### 3. Merge June Security Patch
 
-### 4. Other stuff I may have forgotten
+### 4. Add OTA support
+
+### 5. Other stuff I may have forgotten
