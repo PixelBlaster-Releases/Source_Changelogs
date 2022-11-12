@@ -1,17 +1,17 @@
-# Changelog
+# PixelBlaster v6.1
 
-### 1. Add expandable volume panel
+### 1. Switch to Launcher3
 
-### 2. Add Per app volume support
+### 2. Nuke the header from all apps screen in Launcher
 
-### 3. Add GameSpace
+### 2. Add smartspace in Launcher3 from Pa-Gr
 
-### 4. Integrate CAF boost framework to GameSpace performance mode
+### 3. Add Per app volume support
 
-### 5. Add brightness slider to GameSpace
+### 4. Add desktop mode from LMODroid
 
-### 6. Improve GameSpace layout
+### 5. Fix font picker
 
-### 7. Implement July ASB
+### 6. Merge November Security Patch
 
-### 8. Other stuff I may have forgotten
+### 7. Other stuff I may have forgotten
